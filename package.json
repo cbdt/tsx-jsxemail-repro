@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.tsx"
+  },
+  "devDependencies": {
+    "tsx": "^4.10.2"
+  },
+  "dependencies": {
+    "jsx-email": "^2.7.1",
+    "react": "^19.1.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild"
+    ]
+  }
+}
