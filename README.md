@@ -14,7 +14,7 @@ Error: test
 
 ```
 
-If we comment:
+If we comment: (or any references to `jsx-email`)
 
 ```ts
 // await render(<Template />)
